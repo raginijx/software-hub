@@ -1,1 +1,1 @@
-New file on branch feature
+print("New file on branch feature")
